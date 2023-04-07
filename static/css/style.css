@@ -1,0 +1,44 @@
+/* Style pour le corps de la page */
+body {
+    background-image: url("../image/IA.jpeg");
+    background-size: cover;
+    background-color: #333;
+  }
+  
+  
+  /* Style pour les titres */
+  h1, h2, h3 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Style pour les boutons */
+  button {
+    background-color: #21c526;
+    color: rgb(197, 178, 178);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style pour les formulaires */
+  form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+  
+  /* Style pour les zones de texte */
+  input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+
